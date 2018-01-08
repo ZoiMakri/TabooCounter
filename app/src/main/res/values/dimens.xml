@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">4dp</dimen>
+    <dimen name="marginextralarge">32dp</dimen>
+    <dimen name="marginlarge">24dp</dimen>
+    <dimen name="marginmedium">16dp</dimen>
+    <dimen name="marginsmall">8dp</dimen>
+    <dimen  name="marginextrasmall">3dp</dimen>
+    <dimen name="teamview">14sp</dimen>
+    <dimen name="scoreview">56sp</dimen>
+
+    <dimen name="scoreviewland">46sp</dimen>
+    <dimen name="buttontext">10sp</dimen>
+</resources>
